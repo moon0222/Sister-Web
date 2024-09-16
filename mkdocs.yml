@@ -17,8 +17,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: light green
-      accent: cyan 
+      primary: cyan
+      accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
